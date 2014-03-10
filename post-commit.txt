@@ -1,2 +1,0 @@
-#!/bin/sh
-/usr/bin/svn log -v -r HEAD file:///data/seu/seu | mail -s "Commit SVN: SEU" "email@uninove.br”
